@@ -41,5 +41,5 @@ Start the server by typing
           "http://localhost:3000/user/addAvatar"
      In form data select key value pair as 
         1.1 file:\<choose file\>
-        1.2 username:\<username\>
+        1.2 username:\<username\><br>
   Play around and enjoy :)
