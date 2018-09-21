@@ -35,11 +35,11 @@ Start the server by typing
         "http://localhost:3000/getUsers"
   
   2. To get list of posts of a particular user->
-     eg.  "http://localhost:3000/getPostByUserName?username=<username>"
+     eg.  "http://localhost:3000/getPostByUserName?username=\<username\>"
   
   3. To update avatar(use any dummy rest client)->
           "http://localhost:3000/user/addAvatar"
      In form data select key value pair as 
-        1.1 file:<choose file>
-        1.2 username:<username>
+        1.1 file:\<choose file\>
+        1.2 username:\<username\>
   Play around and enjoy :)
