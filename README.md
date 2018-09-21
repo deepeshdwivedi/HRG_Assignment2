@@ -35,7 +35,7 @@ Start the server by typing
         "http://localhost:3000/getUsers"
   
   2. To get list of posts of a particular user->
-     eg.  "http://localhost:3000/getPostByUserName?username=\<username\>"
+     eg.  "http://localhost:3000/getPostByUserName?username= \<username\>"
   
   3. To update avatar(use any dummy rest client)->
           "http://localhost:3000/user/addAvatar"
